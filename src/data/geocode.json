@@ -1,0 +1,842 @@
+[
+  {
+    "locationId": 519,
+    "companyName": "Equilibrium Cannabis",
+    "address": "10130 101 Ave, Lac la Biche, AB T0A 2C0, Canada",
+    "lat": 54.77007279999999,
+    "lng": -111.9780914
+  },
+  {
+    "locationId": 981,
+    "companyName": "Nelson Potorium",
+    "address": "A-471 Baker Street, Nelson, BC V1L 4H7, Canada",
+    "lat": 49.4918883,
+    "lng": -117.2945932
+  },
+  {
+    "locationId": 979,
+    "companyName": "Daylight Cannabis",
+    "address": "1-671 Industrial Way, Tofino, BC V0R 2Z0, Canada",
+    "lat": 49.1396307,
+    "lng": -125.8924442
+  },
+  {
+    "locationId": 1175,
+    "companyName": "Cannaco",
+    "address": "16-547 Main St E, Milton, ON, Canada",
+    "lat": 43.5089237,
+    "lng": -79.8877778
+  },
+  {
+    "locationId": 1190,
+    "companyName": "Cannabission",
+    "address": "9-3818 Gordon Drive, Kelowna, BC, Canada, V1W 3G8",
+    "lat": 49.8674989,
+    "lng": -119.4739013
+  },
+  {
+    "locationId": 845,
+    "companyName": "Ancaster Joint",
+    "address": "9-1142 Wilson St W, Ancaster, Ontario, Canada",
+    "lat": 43.21783360000001,
+    "lng": -79.9878817
+  },
+  {
+    "locationId": 960,
+    "companyName": "Moderna Cannabis Society",
+    "address": "155 Mahogany Centre Southeast, Calgary, AB T3M 2V6, Canada",
+    "lat": 50.8968717,
+    "lng": -113.9350611
+  },
+  {
+    "locationId": 1151,
+    "companyName": "RARE Cannabis Co.",
+    "address": "5-213 Main Street North, Airdrie, AB T4B 0R6, Canada",
+    "lat": 51.3014563,
+    "lng": -114.0132586
+  },
+  {
+    "locationId": 1194,
+    "companyName": "Made in Cannabis",
+    "address": "105-1803 91 Street Southwest, Edmonton, AB T6X 0W8, Canada",
+    "lat": 53.4311741,
+    "lng": -113.46844
+  },
+  {
+    "locationId": 991,
+    "companyName": "Equilibrium Cannabis",
+    "address": "103-5003 50 Avenue, Athabasca, AB T9S 1T2, Canada",
+    "lat": 54.7212665,
+    "lng": -113.2873326
+  },
+  {
+    "locationId": 756,
+    "companyName": "Summit Cannabis - Fernie",
+    "address": "1161a 7th Ave, Fernie, BC V0B 1M0, Canada",
+    "lat": 49.5110578,
+    "lng": -115.0620594
+  },
+  {
+    "locationId": 1080,
+    "companyName": "Select Cannabis Corp.",
+    "address": "10124 149 St, Edmonton, Alberta T5P 1L1, Canada",
+    "lat": 53.54242,
+    "lng": -113.578468
+  },
+  {
+    "locationId": 546,
+    "companyName": "Peaceleaf",
+    "address": "101-8801 Resources Rd, Grande Prairie, AB T8V 3A6, Canada",
+    "lat": 55.1668229,
+    "lng": -118.7831873
+  },
+  {
+    "locationId": 684,
+    "companyName": "T & A Cannabis",
+    "address": "5120 50 Avenue, Whitecourt, AB T7S 1N4, Canada",
+    "lat": 54.1414553,
+    "lng": -115.6888289
+  },
+  {
+    "locationId": 1003,
+    "companyName": "Solar Cannabis",
+    "address": "4912 49th Avenue, Mayerthorpe, Alberta T0E 1N0, Canada",
+    "lat": 53.9539881,
+    "lng": -115.1376842
+  },
+  {
+    "locationId": 917,
+    "companyName": "Wiid Boutique Inc.",
+    "address": "4554 Albert St, Regina, SK S4S 6B4",
+    "lat": 50.4064364,
+    "lng": -104.6194424
+  },
+  {
+    "locationId": 498,
+    "companyName": "Global Leaf Cannabis",
+    "address": "106-5401 Temple Dr NE, Calgary, AB T1Y 3R7, Canada",
+    "lat": 51.0925829,
+    "lng": -113.947351
+  },
+  {
+    "locationId": 958,
+    "companyName": "Black Crow Cannabis",
+    "address": "2808A 48 Avenue, Vernon, BC V1T 3R4, Canada",
+    "lat": 50.2818418,
+    "lng": -119.2692929
+  },
+  {
+    "locationId": 831,
+    "companyName": "Sky High Cannabis Ltd.",
+    "address": "38054 2nd Avenue, Squamish, BC V8B 0A5, Canada",
+    "lat": 49.6995966,
+    "lng": -123.1539475
+  },
+  {
+    "locationId": 759,
+    "companyName": "Zaga's Ent. Ltd.",
+    "address": "1543 Victoria Street, Prince George, BC V2L 2L4, Canada",
+    "lat": 53.9100288,
+    "lng": -122.7563093
+  },
+  {
+    "locationId": 1005,
+    "companyName": "Collage",
+    "address": "1907 20 Avenue Northwest, Calgary, AB T2M 1H6, Canada",
+    "lat": 51.0703291,
+    "lng": -114.1051558
+  },
+  {
+    "locationId": 983,
+    "companyName": "Bridgeland Cannabis Store",
+    "address": "917 1 Ave NE, Calgary, AB T2E 2L3, Canada",
+    "lat": 51.05315,
+    "lng": -114.0423274
+  },
+  {
+    "locationId": 483,
+    "companyName": "The Pot Shack",
+    "address": "1115 Grosvenor Ave #3, Saskatoon, SK S7H 4G2",
+    "lat": 52.113786,
+    "lng": -106.625751
+  },
+  {
+    "locationId": 480,
+    "companyName": "Five Point Cannabis",
+    "address": "945 General Ave NE, Calgary, AB T2E 9E1, Canada",
+    "lat": 51.052975,
+    "lng": -114.0407904
+  },
+  {
+    "locationId": 908,
+    "companyName": "Bud Runners Cannabis",
+    "address": "5822 51 Street, Grimshaw, AB T0H 1W0, Canada",
+    "lat": 56.19644959999999,
+    "lng": -117.6095488
+  },
+  {
+    "locationId": 750,
+    "companyName": "Beyond the Leaf",
+    "address": "239a 3 Avenue, Strathmore, AB T1P 1N7, Canada",
+    "lat": 51.041416,
+    "lng": -113.3970871
+  },
+  {
+    "locationId": 864,
+    "companyName": "Westcan Cannabis",
+    "address": "9-1702 23 Street North, Lethbridge, AB T1H 5B3, Canada",
+    "lat": 49.719952,
+    "lng": -112.8107132
+  },
+  {
+    "locationId": 740,
+    "companyName": "Fuzzy Budz",
+    "address": "E-4912 50th Avenue, Lacombe, Alberta T4L 1Y1, Canada",
+    "lat": 52.46330400000001,
+    "lng": -113.7298009
+  },
+  {
+    "locationId": 1128,
+    "companyName": "Cannabis Supply Company",
+    "address": "UNIT L-62 Commerce Park Drive, Barrie, ON, Canada",
+    "lat": 44.32516469999999,
+    "lng": -79.6841505
+  },
+  {
+    "locationId": 1094,
+    "companyName": "Accupure LTD.",
+    "address": "310-6017 Parkwood Road, Blackfalds, AB, Canada",
+    "lat": 52.3843398,
+    "lng": -113.7864391
+  },
+  {
+    "locationId": 845,
+    "companyName": "Armstrong Block Cannabis",
+    "address": "10129 104 Street Northwest, Edmonton, AB T5J 0Z9, Canada",
+    "lat": 53.5416458,
+    "lng": -113.4990517
+  },
+  {
+    "locationId": 1272,
+    "companyName": "Westcan Cannabis",
+    "address": "20-10 Aquitania Blvd W, Lethbridge, Alberta, Canada T1J 5L4",
+    "lat": 49.6719489,
+    "lng": -112.9038004
+  },
+  {
+    "locationId": 1226,
+    "companyName": "Retail Cannabis Store Ltd.",
+    "address": "4305 24 Avenue South, Lethbridge, AB T1K 7C1, Canada",
+    "lat": 49.66904719999999,
+    "lng": -112.7774279
+  },
+  {
+    "locationId": 699,
+    "companyName": "The Park Canna Club",
+    "address": "6 Blackfoot Road, Sherwood Park, AB T8A 4P4, Canada",
+    "lat": 53.5385726,
+    "lng": -113.3236839
+  },
+  {
+    "locationId": 662,
+    "companyName": "Costa Canna Corp.",
+    "address": "1A-180 Central Rd, Duncan, BC V9L 4X3, Canada",
+    "lat": 48.7752104,
+    "lng": -123.7010364
+  },
+  {
+    "locationId": 779,
+    "companyName": "Cannamart",
+    "address": "10114 175 Street Northwest, Edmonton, AB T5S 1L1, Canada",
+    "lat": 53.5420672,
+    "lng": -113.6236523
+  },
+  {
+    "locationId": 513,
+    "companyName": "House of Hybrids",
+    "address": "6601 43 St, Lloydminster, AB T9V 3E8, Canada",
+    "lat": 53.27641380000001,
+    "lng": -110.041625
+  },
+  {
+    "locationId": 1020,
+    "companyName": "Northern Rockies Cannabis",
+    "address": "4802 49 Ave, Fort Nelson, BC V0C 1R0, Canada",
+    "lat": 58.80300500000001,
+    "lng": -122.695225
+  },
+  {
+    "locationId": 1153,
+    "companyName": "Caribbean Oxygen",
+    "address": "124 Main Street, Cambridge, ON, Canada",
+    "lat": 43.35908879999999,
+    "lng": -80.31196120000001
+  },
+  {
+    "locationId": 976,
+    "companyName": "Urban Canna",
+    "address": "609-200 Southridge Drive, Okotoks, AB T1S 0B2, Canada",
+    "lat": 50.7052491,
+    "lng": -113.9750563
+  },
+  {
+    "locationId": 851,
+    "companyName": "Shades of Green",
+    "address": "519 Victoria Street, Kamloops, BC V2C 2B1, Canada",
+    "lat": 50.6756262,
+    "lng": -120.3289806
+  },
+  {
+    "locationId": 702,
+    "companyName": "Ganjika House",
+    "address": "186 Main St S, Brampton, ON L6W 2E2",
+    "lat": 43.67640249999999,
+    "lng": -79.7464573
+  },
+  {
+    "locationId": 900,
+    "companyName": "Hemp and Wellness / Blended Buds",
+    "address": "114-5601 Anderson Way, Vernon, BC V1T 9V1, Canada",
+    "lat": 50.2884232,
+    "lng": -119.2664365
+  },
+  {
+    "locationId": 688,
+    "companyName": "Urban Canna",
+    "address": "3011 26 Ave SW, Calgary, AB T3E 0M7, Canada",
+    "lat": 51.0299701,
+    "lng": -114.1301527
+  },
+  {
+    "locationId": 932,
+    "companyName": "Buddy's Place",
+    "address": "358 Baker St, Nelson, BC V1L 4H5, Canada",
+    "lat": 49.4911042,
+    "lng": -117.2957529
+  },
+  {
+    "locationId": 1228,
+    "companyName": "Garden City Cannabis Co",
+    "address": "9-111 Fourth Avenue, St. Catharines, ON, Canada",
+    "lat": 43.1538282,
+    "lng": -79.2756157
+  },
+  {
+    "locationId": 1270,
+    "companyName": "Neku Cannabis",
+    "address": "38 Hess St S, Hamilton, ON, Canada",
+    "lat": 43.2579041,
+    "lng": -79.8781142
+  },
+  {
+    "locationId": 772,
+    "companyName": "Summit Cannabis - Revelstoke",
+    "address": "109 Connaught Ave, Revelstoke, BC V0E 2S0, Canada",
+    "lat": 50.9996378,
+    "lng": -118.1959375
+  },
+  {
+    "locationId": 791,
+    "companyName": "Frosted Acres",
+    "address": "100a 4 Avenue Southwest, Manning, AB T0H 2M0, Canada",
+    "lat": 56.9215026,
+    "lng": -117.6309412
+  },
+  {
+    "locationId": 1139,
+    "companyName": "Canyon Creek Cannabis",
+    "address": "828 10th Avenue South, Golden, BC V0A 1H0, Canada",
+    "lat": 51.2963599,
+    "lng": -116.9628339
+  },
+  {
+    "locationId": 504,
+    "companyName": "Queen of Bud",
+    "address": "1717 10 Ave SW, Calgary, AB T3C 0K1, Canada",
+    "lat": 51.044039,
+    "lng": -114.100389
+  },
+  {
+    "locationId": 674,
+    "companyName": "Rosebud Cannabis",
+    "address": "3912 44 Avenue, Camrose, AB T4V 3H2, Canada",
+    "lat": 53.0107108,
+    "lng": -112.8082666
+  },
+  {
+    "locationId": 563,
+    "companyName": "Earth's Own Naturals Ltd.",
+    "address": "148 Howard St, Kimberley, BC V1A 2G6, Canada",
+    "lat": 49.6866777,
+    "lng": -115.9840599
+  },
+  {
+    "locationId": 733,
+    "companyName": "Green Mountain Cannabis",
+    "address": "11610 119 Street Northwest, Edmonton, AB T5G 2X7, Canada",
+    "lat": 53.5676819,
+    "lng": -113.5272326
+  },
+  {
+    "locationId": 1125,
+    "companyName": "Cannabis Supply Company",
+    "address": "5b-164 Colborne St W, Brantford, ON, Canada",
+    "lat": 43.1315653,
+    "lng": -80.2763408
+  },
+  {
+    "locationId": 1264,
+    "companyName": "Dolly's Cannabis",
+    "address": "1105 Bathurst Street, Toronto, ON, Canada",
+    "lat": 43.6733766,
+    "lng": -79.4142208
+  },
+  {
+    "locationId": 589,
+    "companyName": "Gramsterdam",
+    "address": "235-5701 17 Avenue SE T2A 0W3",
+    "lat": 51.0373848,
+    "lng": -113.9534653
+  },
+  {
+    "locationId": 1041,
+    "companyName": "Bud Supply Group",
+    "address": "5014 46 Avenue, Taber, AB T1G 2A6, Canada",
+    "lat": 49.7816996,
+    "lng": -112.1484725
+  },
+  {
+    "locationId": 858,
+    "companyName": "INDICAtive Collection",
+    "address": "124 Leva Ave, Red Deer County, Alberta T4E 1B2, Canada",
+    "lat": 52.205475,
+    "lng": -113.8167585
+  },
+  {
+    "locationId": 776,
+    "companyName": "Creston Valley Cannabis Co.",
+    "address": "137 15th Ave N, Creston, BC V0B 1G0, Canada",
+    "lat": 49.0964743,
+    "lng": -116.5081074
+  },
+  {
+    "locationId": 747,
+    "companyName": "7 Points Cannabis",
+    "address": "102-21557 CHIEF LAPOTAC BLVD. PO BOX 880 ENOCH AB T7X 3Y3",
+    "lat": 53.5087747,
+    "lng": -113.6905073
+  },
+  {
+    "locationId": 965,
+    "companyName": "Buddy's Place",
+    "address": "1198 Pine Ave, Trail, BC V1R 3T9, Canada",
+    "lat": 49.09602539999999,
+    "lng": -117.7108823
+  },
+  {
+    "locationId": 988,
+    "companyName": "1st Cannabis",
+    "address": "223 1st Street West, North Vancouver, BC V7M 1B3, Canada",
+    "lat": 49.3135366,
+    "lng": -123.0827893
+  },
+  {
+    "locationId": 898,
+    "companyName": "Good Habits Cannabis",
+    "address": "203-2115 4 Street Southwest, Calgary, AB T2S 1W8, Canada",
+    "lat": 51.03361599999999,
+    "lng": -114.0718869
+  },
+  {
+    "locationId": 1177,
+    "companyName": "Shiny Bud",
+    "address": "5959 Jeanne D'Arc Blvd S, Orléans, ON, Canada",
+    "lat": 45.4655637,
+    "lng": -75.54287699999999
+  },
+  {
+    "locationId": 924,
+    "companyName": "La Canapa Cannabis Retail",
+    "address": "3432 Dunbar Street, Vancouver, BC V6S 2C2, Canada",
+    "lat": 49.2561544,
+    "lng": -123.1847475
+  },
+  {
+    "locationId": 1244,
+    "companyName": "Budzz Pot Shoppe",
+    "address": "5026 Highway 21, Port Elgin, Ontario N0H 2C0, Canada",
+    "lat": 44.4159277,
+    "lng": -81.4048658
+  },
+  {
+    "locationId": 671,
+    "companyName": "Stick & Stone Cannabis Co.",
+    "address": "891 7th Avenue, Fernie, BC V0B 1M0, Canada",
+    "lat": 49.508781,
+    "lng": -115.0643941
+  },
+  {
+    "locationId": 937,
+    "companyName": "BudaBoom INC.",
+    "address": "15803 87 Avenue Northwest, Edmonton, AB, Canada",
+    "lat": 53.5190639,
+    "lng": -113.5956015
+  },
+  {
+    "locationId": 967,
+    "companyName": "Kakou Cannabis",
+    "address": "101-11706 104 Ave, Grande Prairie, AB T8V 6K3, Canada",
+    "lat": 55.1755326,
+    "lng": -118.8509805
+  },
+  {
+    "locationId": 1124,
+    "companyName": "Cannabis Supply Company",
+    "address": "57 John St S, Hamilton, ON L8N 2B9, Canada",
+    "lat": 43.2542134,
+    "lng": -79.86711179999999
+  },
+  {
+    "locationId": 970,
+    "companyName": "Cheeba Cheebas",
+    "address": "140 Rutland Road South, Kelowna, BC V1X 2Z4, Canada",
+    "lat": 49.8883842,
+    "lng": -119.3872092
+  },
+  {
+    "locationId": 549,
+    "companyName": "Prairie Cannabis Ltd.",
+    "address": "180 17 St W, Prince Albert, SK S6V 3X5",
+    "lat": 53.197804,
+    "lng": -105.7595806
+  },
+  {
+    "locationId": 727,
+    "companyName": "Merry Janes Cannabis",
+    "address": "1318 1 St SW, Calgary, AB, Canada",
+    "lat": 51.0399407,
+    "lng": -114.0657405
+  },
+  {
+    "locationId": 1104,
+    "companyName": "The Potterie",
+    "address": "4905 55 Avenue, Grimshaw, AB T0H 1W0, Canada",
+    "lat": 56.19204800000001,
+    "lng": -117.6052549
+  },
+  {
+    "locationId": 507,
+    "companyName": "Rocky Mountain Collective",
+    "address": "437 Gregg Avenue, Hinton, AB T7V 1N1, Canada",
+    "lat": 53.396485,
+    "lng": -117.59819
+  },
+  {
+    "locationId": 552,
+    "companyName": "Lucky Leaf Cannabis Retailers Ltd.",
+    "address": "9702 100 Street, Grande Prairie, AB T8V 6N6, Canada",
+    "lat": 55.168291,
+    "lng": -118.795389
+  },
+  {
+    "locationId": 1090,
+    "companyName": "Highway 2 Cannabis Sales Inc",
+    "address": "103-8301 99 Street, Clairmont, AB T0H 0W0, Canada",
+    "lat": 55.2424283,
+    "lng": -118.7918558
+  },
+  {
+    "locationId": 1058,
+    "companyName": "Lucid Cannabis",
+    "address": "4355 167 Avenue Northwest, Edmonton, T5Y 3Y2 AB, Canada",
+    "lat": 53.6285793,
+    "lng": -113.4068862
+  },
+  {
+    "locationId": 1010,
+    "companyName": "Nature's Blend Ltd.",
+    "address": "103-2270 Cliffe Ave, Courtenay, BC V9L 2N4, Canada",
+    "lat": 49.6784202,
+    "lng": -124.9836496
+  },
+  {
+    "locationId": 547,
+    "companyName": "Peaceleaf",
+    "address": "4838 51 Avenue, High Prairie, AB T0G 1E0, Canada",
+    "lat": 55.4312591,
+    "lng": -116.490904
+  },
+  {
+    "locationId": 665,
+    "companyName": "The Niagara Herbalist",
+    "address": "15-33 Lakeshore Road, St. Catharines, ON L2N 7B3, Canada",
+    "lat": 43.1985172,
+    "lng": -79.2574613
+  },
+  {
+    "locationId": 786,
+    "companyName": "Royal Street Cannabis",
+    "address": "128 Queen Street, Spruce Grove, AB T7X 2Z8, Canada",
+    "lat": 53.5422082,
+    "lng": -113.9059076
+  },
+  {
+    "locationId": 1276,
+    "companyName": "Broadway Cannabis",
+    "address": "71 Broadway, Orangeville, ON, Canada",
+    "lat": 43.9205183,
+    "lng": -80.0928196
+  },
+  {
+    "locationId": 628,
+    "companyName": "Urban Canna",
+    "address": "424 Erin Woods Drive Southeast, Calgary, AB T2B 3C5, Canada",
+    "lat": 51.0237693,
+    "lng": -113.9601388
+  },
+  {
+    "locationId": 825,
+    "companyName": "Shire Green Cannabis",
+    "address": "484 Douglas St, Prince George, BC V2M 2M2, Canada",
+    "lat": 53.9209055,
+    "lng": -122.7704368
+  },
+  {
+    "locationId": 489,
+    "companyName": "Beltline Cannabis",
+    "address": "806 12 Avenue Southwest, Calgary, AB T2R 0J3, Canada",
+    "lat": 51.0420611,
+    "lng": -114.0794994
+  },
+  {
+    "locationId": 803,
+    "companyName": "Green Canoe Cannabis",
+    "address": "7390 50 Street Northeast, Salmon Arm, BC V0E 1K0, Canada",
+    "lat": 50.75378569999999,
+    "lng": -119.2271325
+  },
+  {
+    "locationId": 1086,
+    "companyName": "THC Canada",
+    "address": "6416 Main Street, Vancouver, BC V5W 2V4, Canada",
+    "lat": 49.2264409,
+    "lng": -123.1013283
+  },
+  {
+    "locationId": 534,
+    "companyName": "Living Skies Cannabis / LSC",
+    "address": "208 3 Ave S, Saskatoon, SK S7K 1M1, Canada",
+    "lat": 52.1265053,
+    "lng": -106.6627614
+  },
+  {
+    "locationId": 909,
+    "companyName": "Bud Runners Cannabis",
+    "address": "7426 100 Avenue, Peace River, AB T8S 1M5, Canada",
+    "lat": 56.2336165,
+    "lng": -117.3446517
+  },
+  {
+    "locationId": 848,
+    "companyName": "Dawson Creek Cannabis Company",
+    "address": "19-11000 8th Street, Dawson Creek, BC V1G 4K6, Canada",
+    "lat": 55.7500714,
+    "lng": -120.221013
+  },
+  {
+    "locationId": 1123,
+    "companyName": "Oz Cannabis",
+    "address": "320-49 Hinshaw Dr, Sylvan Lake, AB, Canada, T4S 0A5",
+    "lat": 52.3105252,
+    "lng": -114.0761519
+  },
+  {
+    "locationId": 835,
+    "companyName": "Greenwood Cannabis/ Greenwood Buds",
+    "address": "314 S Copper Ave, Greenwood, BC V0H 1J0, Canada",
+    "lat": 49.0881644,
+    "lng": -118.6771466
+  },
+  {
+    "locationId": 1252,
+    "companyName": "Revelsmoke",
+    "address": "204-C First Street W, Revelstoke, BC, Canada, V0E 2S0",
+    "lat": 50.9996233,
+    "lng": -118.196322
+  },
+  {
+    "locationId": 862,
+    "companyName": "Lucid Cannabis",
+    "address": "102-5013 48 Street, Stony Plain, AB T7Z 1L8, Canada",
+    "lat": 53.52916099999999,
+    "lng": -114.001098
+  },
+  {
+    "locationId": 1130,
+    "companyName": "Cannabis Supply Company",
+    "address": "1400 Weber St E, Kitchener, ON, Canada",
+    "lat": 43.4331684,
+    "lng": -80.43908449999999
+  },
+  {
+    "locationId": 848,
+    "companyName": "Dawson Creek Cannabis Company",
+    "address": "625-11850 Oceola Road, Lake Country, BC V4V 2T5, Canada",
+    "lat": 50.054125,
+    "lng": -119.411987
+  },
+  {
+    "locationId": 1254,
+    "companyName": "Capturing Eden INC",
+    "address": "973 2nd Ave W, Owen Sound, ON, Canada",
+    "lat": 44.5668628,
+    "lng": -80.9457633
+  },
+  {
+    "locationId": 736,
+    "companyName": "Harvest Country Cannabis Store",
+    "address": "3-9935 106 St, Westlock, AB T7P 2K1, Canada",
+    "lat": 54.1544772,
+    "lng": -113.8621989
+  },
+  {
+    "locationId": 820,
+    "companyName": "Hoots Cannabis",
+    "address": "B-5016 50 Avenue, Whitecourt, AB, Canada, T7S 1W2",
+    "lat": 54.14068760000001,
+    "lng": -115.6857398
+  },
+  {
+    "locationId": 902,
+    "companyName": "CANNABIS LINK",
+    "address": "2-10108 100th Street, Fort St. John, BC V1J 3Y7, Canada",
+    "lat": 56.24767900000001,
+    "lng": -120.847856
+  },
+  {
+    "locationId": 1102,
+    "companyName": "Refresh Cannabis",
+    "address": "128-15 Erin Ridge Road, St. Albert, AB T8N 0R3, Canada",
+    "lat": 53.6572212,
+    "lng": -113.6282266
+  },
+  {
+    "locationId": 785,
+    "companyName": "Royal Street Cannabis",
+    "address": "4984 92 Avenue, Edmonton, AB T6B 2V4, Canada",
+    "lat": 53.527129,
+    "lng": -113.417032
+  },
+  {
+    "locationId": 977,
+    "companyName": "Mountain Mellow",
+    "address": "C-4805 75 street NW, Stettler AB T0C 2L0",
+    "lat": 52.3235488,
+    "lng": -112.7481879
+  },
+  {
+    "locationId": 531,
+    "companyName": "Twenty Four Karats / 24 Karats",
+    "address": "2220 5 Avenue South, Lethbridge, AB T1J 4G6, Canada",
+    "lat": 49.693087,
+    "lng": -112.809399
+  },
+  {
+    "locationId": 690,
+    "companyName": "Highway 2 Cannabis Sales Inc",
+    "address": "771051 Highway 2, Municipal District of Spirit River No.133, AB T0H 3G0, Canada",
+    "lat": 55.4455689,
+    "lng": -118.6762503
+  },
+  {
+    "locationId": 559,
+    "companyName": "Canaba Cannabis",
+    "address": "3332 2nd ave W. Prince Albert, SK S6V 5E9",
+    "lat": 53.1827564,
+    "lng": -105.7594853
+  },
+  {
+    "locationId": 934,
+    "companyName": "BudaBoom INC.",
+    "address": "4515 Gateway Blvd NW, Edmonton, AB, Canada",
+    "lat": 53.483555,
+    "lng": -113.4912809
+  },
+  {
+    "locationId": 1088,
+    "companyName": "Rocky Mountain Roots",
+    "address": "120-410 St Albert Trail, St. Albert, AB T8N 5J9, Canada",
+    "lat": 53.645416,
+    "lng": -113.6274222
+  },
+  {
+    "locationId": 1070,
+    "companyName": "Bonnefire",
+    "address": "244 Queen St. W, Toronto, ON, Canada",
+    "lat": 43.6500929,
+    "lng": -79.3907473
+  },
+  {
+    "locationId": 1029,
+    "companyName": "Friendly Stranger",
+    "address": "1135 Richmond St, London, ON, Canada",
+    "lat": 43.0081959,
+    "lng": -81.2608549
+  },
+  {
+    "locationId": 1027,
+    "companyName": "Friendly Stranger",
+    "address": "1025 & 1059 PLAINS RD E UNIT 3, Burlington, ON, Canada",
+    "lat": 43.3378999,
+    "lng": -79.8180744
+  },
+  {
+    "locationId": 1033,
+    "companyName": "The GreenEasy Ltd.",
+    "address": "B-510 Highway 1 Strathmore, AB T1P 1M6, Canada",
+    "lat": 51.0386142,
+    "lng": -113.4015346
+  },
+  {
+    "locationId": 705,
+    "companyName": "Cannaland Cannabis LTD.",
+    "address": "595 18 St, Castlegar, BC V1N 2N1, Canada",
+    "lat": 49.3002824,
+    "lng": -117.654964
+  },
+  {
+    "locationId": 1179,
+    "companyName": "Unplug Cannabis",
+    "address": "3-1375 Trim Road, Ottawa, Orléans, Ontario, Canada",
+    "lat": 45.4896851,
+    "lng": -75.47746169999999
+  },
+  {
+    "locationId": 922,
+    "companyName": "Green Gaia",
+    "address": "9-7519 Prairie Valley Road, Summerland, BC V0H 1Z4, Canada",
+    "lat": 49.6021347,
+    "lng": -119.6661406
+  },
+  {
+    "locationId": 1024,
+    "companyName": "Buds Cannabis",
+    "address": "100-6765 Veyaness Road, Saanichton, BC V8M 2A7, Canada",
+    "lat": 48.5659549,
+    "lng": -123.4099702
+  },
+  {
+    "locationId": 1063,
+    "companyName": "Upstairs Cannabis",
+    "address": "902 11 Ave SE, Calgary, AB T2G 2Z4, Canada",
+    "lat": 51.0404151,
+    "lng": -114.0413015
+  },
+  {
+    "locationId": 627,
+    "companyName": "Urban Canna",
+    "address": "101-1318 Centre Street NE, Calgary AB, T2E 2R7",
+    "lat": 51.094919,
+    "lng": -114.062878
+  }
+]
